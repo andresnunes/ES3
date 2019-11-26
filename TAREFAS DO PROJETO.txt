@@ -1,0 +1,7 @@
+ROTEIRO (ATO 1)
+
+- Verificar atributos das entidades para determinar campos de interfaces
+- Fazer um escopo das seguintes interfaces:
+		> Produtos
+		> Pedidos
+		> Venda

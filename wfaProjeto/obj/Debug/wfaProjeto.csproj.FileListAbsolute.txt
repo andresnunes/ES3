@@ -1,0 +1,20 @@
+C:\Users\Antonio\source\repos\wfaProjeto\wfaProjeto\bin\Debug\wfaProjeto.exe.config
+C:\Users\Antonio\source\repos\wfaProjeto\wfaProjeto\bin\Debug\wfaProjeto.exe
+C:\Users\Antonio\source\repos\wfaProjeto\wfaProjeto\bin\Debug\wfaProjeto.pdb
+C:\Users\Antonio\source\repos\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.csprojAssemblyReference.cache
+C:\Users\Antonio\source\repos\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.Cliente.resources
+C:\Users\Antonio\source\repos\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.Form1.resources
+C:\Users\Antonio\source\repos\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.Properties.Resources.resources
+C:\Users\Antonio\source\repos\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.csproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.exe
+C:\Users\Antonio\source\repos\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.pdb
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\wfaProjeto\bin\Debug\wfaProjeto.exe.config
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\wfaProjeto\bin\Debug\wfaProjeto.exe
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\wfaProjeto\bin\Debug\wfaProjeto.pdb
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.csprojAssemblyReference.cache
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.Cliente.resources
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.Form1.resources
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.Properties.Resources.resources
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.csproj.GenerateResource.cache
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.exe
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\wfaProjeto\obj\Debug\wfaProjeto.pdb
