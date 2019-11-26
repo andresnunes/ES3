@@ -1,0 +1,9 @@
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Dados\bin\Debug\netstandard2.0\Camada_Dados.deps.json
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Dados\bin\Debug\netstandard2.0\Camada_Dados.dll
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Dados\bin\Debug\netstandard2.0\Camada_Dados.pdb
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Dados\obj\Debug\netstandard2.0\Camada_Dados.csprojAssemblyReference.cache
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Dados\obj\Debug\netstandard2.0\Camada_Dados.AssemblyInfoInputs.cache
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Dados\obj\Debug\netstandard2.0\Camada_Dados.AssemblyInfo.cs
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Dados\obj\Debug\netstandard2.0\Camada_Dados.dll
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Dados\obj\Debug\netstandard2.0\Camada_Dados.pdb
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Dados\bin\Debug\netstandard2.0\EmpresaDB.db

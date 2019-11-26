@@ -1,0 +1,12 @@
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\bin\Debug\netstandard2.0\Camada_Negocio.deps.json
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\bin\Debug\netstandard2.0\Camada_Negocio.dll
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\bin\Debug\netstandard2.0\Camada_Negocio.pdb
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\bin\Debug\netstandard2.0\Camada_Dados.dll
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\bin\Debug\netstandard2.0\Camada_Dados.pdb
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\obj\Debug\netstandard2.0\Camada_Negocio.csprojAssemblyReference.cache
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\obj\Debug\netstandard2.0\Camada_Negocio.AssemblyInfoInputs.cache
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\obj\Debug\netstandard2.0\Camada_Negocio.AssemblyInfo.cs
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\obj\Debug\netstandard2.0\Camada_Negocio.csproj.CopyComplete
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\obj\Debug\netstandard2.0\Camada_Negocio.dll
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\obj\Debug\netstandard2.0\Camada_Negocio.pdb
+C:\Users\André\OneDrive - Fatec Centro Paula Souza\Fatec\4Semestre\Eng-Soft3\wfaProjeto\Camada_Negocio\bin\Debug\netstandard2.0\EmpresaDB.db
